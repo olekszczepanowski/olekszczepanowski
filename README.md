@@ -2,7 +2,7 @@
 
 my name is aleksander and im hyped to learn new things!
 studying at WUST rn <br>
-<img src = "https://cdn.7tv.app/emote/61614029f7b7a92934121c08/4x.webp"/>
+<img src = "https://cdn.7tv.app/emote/60af912352a13d1adb2612ec/3x.webp"/>
 ### Tech stack ###
 <p align="left">
   <a href="https://skillicons.dev">
