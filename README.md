@@ -6,6 +6,6 @@ studying at WUST rn🤓🤓 <br>
 ### Tech stack ###
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,javascript,java,html,css,react,django,cpp,scala,git" />
+    <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,python,tailwind,html,java,git,github" />
   </a>
 </p>
