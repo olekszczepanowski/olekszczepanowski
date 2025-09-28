@@ -5,6 +5,6 @@ frontend dev <br>
 ### Tech stack ###
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,nextjs,angular,typescript,javascript,python,adonis,prisma,nodejs,tailwind,html,java,git,github" />
+    <img src="https://skillicons.dev/icons?i=react,nextjs,angular,typescript,javascript,prisma,nodejs,tailwind,html,docker,git,github" />
   </a>
 </p>
